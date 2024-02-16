@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    width: 50%;
+    margin-bottom: 1rem;
+
+}
+
+button{
+    width: 20%;
+}
+
+.btnUpdate{
+    margin: 50px;
+    background-color: #ca9191;
+    cursor: pointer;
+    padding: 20px;
+}
